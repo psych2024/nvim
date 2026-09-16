@@ -5,3 +5,5 @@
 vim.opt.relativenumber = false
 
 vim.g.autoformat = false
+
+vim.opt.sidescroll = 1
